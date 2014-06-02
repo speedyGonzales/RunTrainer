@@ -52,3 +52,16 @@ RunTrainer (Python web project)
  3.1 Използване на Facebook Connect  както за аутентикация, така и за споделяне в социалната мрежа. (вероятно с 3rd part library)
  
 3.2 Замяна на PostgreSQL с MongoDB (just to have some fun)
+----------
+
+Milestone 1
+---------
+1. Setting up virtualenv
+2. Setting uo Django simple project
+3. Running the application on server
+4. Testing the database connection
+
+Maybe:
+5. Adding a simple module
+6. Createing a few test pages (possible use of templates, you know it is fun to template)
+7. Creating autentication
